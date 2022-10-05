@@ -147,6 +147,7 @@ const toggleSmallMenu = (e: MouseEvent) => {
 <style scoped>
 nav {
   background-color: #0a0e59;
+  font-family: "Roboto Mono";
 }
 .smallMenu {
   background-color: #010326;

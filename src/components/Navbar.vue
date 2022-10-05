@@ -30,7 +30,7 @@ const toggleSmallMenu = (e: MouseEvent) => {
 
 <template>
   <nav
-    class="w-full py-3 px-10 md:px-20 flex justify-between items-center fixed top-0 left-0"
+    class="w-full py-3 px-10 md:px-20 flex justify-between items-center fixed top-0 left-0 z-50"
   >
     <img class="w-16" src="../assets/logo.png" alt="bit logo" />
     <menu class="md:flex text-white w-4/6 justify-between hidden">

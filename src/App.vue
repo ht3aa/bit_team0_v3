@@ -13,8 +13,6 @@ import Header from "./components/Header.vue";
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap");
 #app {
   /* ! must be deleted */
-  background-color: #010326;
-
   background: url(./assets/waterMarkGroup.png) fixed top center;
   background-size: cover;
 }
